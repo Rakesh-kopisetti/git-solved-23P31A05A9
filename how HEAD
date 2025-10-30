@@ -1,0 +1,7 @@
+*   [33m74c595e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m merge: Resolve all conflicts between main and dev branches
+[31m|[m[32m\[m  
+[31m|[m * [33m02011a5[m[33m ([m[1;31minstructor/dev[m[33m, [m[1;32mdev[m[33m)[m updating dev
+* [32m|[m [33m0312c6f[m[33m ([m[1;31minstructor/main[m[33m, [m[1;31minstructor/HEAD[m[33m)[m updating main
+* [32m|[m [33mfadfd24[m Revise README for DevOps Simulator project
+[32m|[m[32m/[m  
+* [33mae630eb[m Initial commit
